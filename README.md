@@ -4,4 +4,3 @@
 ->Use CSS Grid to align food items, drinks, prices, and images in a clean and organized manner.
 ->Enhance visual appeal with suitable color combinations, font styles, image galleries, and optional sliding images.
 ->Add internal links for navigation and make the page responsive using viewport settings, media queries, and grid layouts.
-
